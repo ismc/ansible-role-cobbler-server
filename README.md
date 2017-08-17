@@ -1,0 +1,1 @@
+# ansible-role-cobbler-server
